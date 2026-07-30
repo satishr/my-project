@@ -1,2 +1,4 @@
-# My Project
-# Change from Github directly
+\# My Project
+
+\# Reverting changes
+
